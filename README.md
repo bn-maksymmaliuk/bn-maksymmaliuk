@@ -21,20 +21,35 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 
 #### Front-end
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-JavaScript?style=flat-square&logo=redux&label=Redux&color=2bbc8a)
-![](https://img.shields.io/badge/NextJS-Framefork-informational?style=flat-square&logo=nextdotjs&label=Next%20JS&color=2bbc8a)
+![](https://img.shields.io/badge/Vue-Framework-informational?style=flat-square&logo=vuedotjs&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Chakra%20UI-Library-informational?style=flat-square&logo=chakraui&label=Chakra%20UI&color=2bbc8a)
-![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Redux-Library-informational?style=flat-square&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NextJS-Framework-informational?style=flat-square&logo=nextdotjs&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Chakra%20UI-Library-informational?style=flat-square&logo=chakraui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TailwindCSS-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
 
 #### Back-end
-![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-Runtime-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Prisma-ORM-informational?style=flat-square&logo=prisma&logoColor=white&color=2bbc8a)
+
+#### DevOps & Infrastructure
+![](https://img.shields.io/badge/Docker-Containerization-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Helm-Package_Manager-informational?style=flat-square&logo=helm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lens-Kubernetes_IDE-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+#### Cloud & Platforms
+![](https://img.shields.io/badge/DigitalOcean-Cloud-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Firebase-BaaS-informational?style=flat-square&logo=firebase&logoColor=white&color=white&labelColor=2bbc8a)
+![](https://img.shields.io/badge/Proxmox-Virtualization-informational?style=flat-square&logo=proxmox&logoColor=white&color=2bbc8a)
 
 ## About bn digital
 
