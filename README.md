@@ -43,6 +43,7 @@ I prefer modern, reliable tools and scalable development practices focused on ma
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Prisma-ORM-informational?style=flat-square&logo=prisma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/nestjs-Framework-informational?style=flat-square&logo=nestjs&logoColor=white&color=2bbc8a)
 
 #### DevOps & Infrastructure
 ![](https://img.shields.io/badge/Docker-Containerization-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
