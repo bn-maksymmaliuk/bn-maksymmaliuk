@@ -1,15 +1,12 @@
-## Hi there 👋
+Hi there 👋
 
-I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
+I'm Maksym Maliuk — a full-stack software developer working with scalable web applications, infrastructure, and low-level technologies.
 
-### My specialty
-
-I have extensive experience in developing scalable web applications using the latest technologies and frameworks.  
-I enjoy building scalable systems that people love using. 
+My experience includes front-end, back-end, DevOps, and cloud-native development. Currently, I’m heavily focused on C++ and systems programming.
 
 ### My tech stack and toolset
 
-At bn digital, we believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
+I prefer modern, reliable tools and scalable development practices focused on maintainability and user experience.
 
 #### Languages
 
@@ -57,13 +54,3 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/DigitalOcean-Cloud-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Firebase-BaaS-informational?style=flat-square&logo=firebase&logoColor=white&color=white&labelColor=2bbc8a)
 ![](https://img.shields.io/badge/Proxmox-Virtualization-informational?style=flat-square&logo=proxmox&logoColor=white&color=2bbc8a)
-
-## About bn digital
-
-BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier.
-
-Please feel free to reach out to us!
-[https://bndigital.co](https://bndigital.co)
-[Dribbble](https://dribbble.com/bndigital)
-[Behance](https://www.behance.net/bn_digital)
-[Linkedin](https://www.linkedin.com/company/bndigital-llc)
