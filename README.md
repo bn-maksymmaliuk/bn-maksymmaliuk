@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 I'm Maksym Maliuk — a full-stack software developer working with scalable web applications, infrastructure, and low-level technologies.
 
